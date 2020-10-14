@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '52383'
     url: http://www.gutenberg.org/2009/agents/52383
     wikipedia: https://en.wikipedia.org/wiki/Josiah_Strong
+covers:
+- cover_type: archival
+  image_path: 63335-h/images/cover.jpg
 creator:
   author:
     agent_name: Greene, Frederick Davis
     gutenberg_agent_id: '52382'
     url: http://www.gutenberg.org/2009/agents/52382
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63335#The-Armenian-Crisis-in-Turkey-The-Massacre-of-1894-Its-Antecedents-and-Significance-With-a-Co_
 gutenberg_issued: '2020-09-29'
 gutenberg_type: Text
 identifiers:
